@@ -14,3 +14,7 @@ This repository contains the numerical simulation and data analysis framework fo
 - Numerical modeling of neutrino transport equations.
 - Automated data processing and visualization scripts.
 - Generation of scientific plots for physical interpretation.
+
+- ## 🚀 How to Run
+```bash
+python Oscillation.py
