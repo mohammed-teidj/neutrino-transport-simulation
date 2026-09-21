@@ -14,6 +14,8 @@ This repository contains the numerical simulation and data analysis framework fo
 - Numerical modeling of neutrino transport equations.
 - Automated data processing and visualization scripts.
 - Generation of scientific plots for physical interpretation.
+- <img width="1043" height="776" alt="Capture d&#39;écran 2026-04-28 002047" src="https://github.com/user-attachments/assets/ced11a94-ef30-465f-88f6-27243105e22a" />
+
 
 - ## 🚀 How to Run
 ```bash
